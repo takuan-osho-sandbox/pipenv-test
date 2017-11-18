@@ -15,7 +15,7 @@ pytest = "*"
 requests = "==2.13.0"
 click = "*"
 ipython = "*"
-sphinx = "==1.5.1"
+sphinx = "*"
 
 
 [requires]

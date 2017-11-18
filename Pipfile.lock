@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "d762e98ea54d20d3cadfd7c40f46001cc24ef572c3b49c59cc9bccb40dac5b76"
+            "sha256": "b4736d6c4dcc4201854802fd34875a624d2f6a7583b2f8384be99b536f6de0a3"
         },
         "host-environment-markers": {
             "implementation_name": "cpython",
@@ -234,10 +234,17 @@
         },
         "sphinx": {
             "hashes": [
-                "sha256:f13a1e175d8a780966df4c0611e310a85073e1b2ac2199bc3c3f3055677b3bf0",
-                "sha256:8e6a77a20b2df950de322fc32f3b508697d9d654fe984e3cc88f446a5b4c17c5"
+                "sha256:fdf77f4f30d84a314c797d67fe7d1b46665e6c48a25699d7bf0610e05a2221d4",
+                "sha256:c6de5dbdbb7a0d7d2757f4389cc00e8f6eb3c49e1772378967a12cfcf2cfe098"
             ],
-            "version": "==1.5.1"
+            "version": "==1.6.5"
+        },
+        "sphinxcontrib-websupport": {
+            "hashes": [
+                "sha256:f4932e95869599b89bf4f80fc3989132d83c9faa5bf633e7b5e0c25dffb75da2",
+                "sha256:7a85961326aa3a400cd4ad3c816d70ed6f7c740acd7ce5d78cd0a67825072eb9"
+            ],
+            "version": "==1.0.1"
         },
         "traitlets": {
             "hashes": [
