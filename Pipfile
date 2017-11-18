@@ -13,7 +13,6 @@ name = "pypi"
 
 requests = "==2.13.0"
 click = "*"
-sphinx = "*"
 ipython = "*"
 
 
