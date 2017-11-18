@@ -12,6 +12,7 @@ name = "pypi"
 [packages]
 
 requests = "==2.13.0"
+click = "*"
 
 
 [requires]
